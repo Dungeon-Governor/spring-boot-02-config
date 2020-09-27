@@ -1,0 +1,10 @@
+person:
+  lastName: 李四
+  age: 18
+  boos: false
+  birth: 2017/12/11
+  maps: {key1: vlue1,key2: vlue2}
+  lists: [李四,张三]
+  dog:
+      name: 小狗
+      age: 2
